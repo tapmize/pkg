@@ -1,0 +1,11 @@
+{
+  "source": "https://storage.googleapis.com/play_public/supported_devices.csv",
+  "source_file": "tools/ua/data/google-supported-devices.original.csv",
+  "listing": "https://storage.googleapis.com/play_public/supported_devices.html",
+  "version": "2026-11-07",
+  "source_sha256": "38f3de4c4f9044b31ba7159e9b612199fbaa9a42f202de6a86f9e7ceb7314ed6",
+  "catalog_sha256": "2c57db774ba576a83902e9202dcf798ffae9ea3da2daf7984552bf2f6e878077",
+  "source_rows": 54408,
+  "model_brand_pairs": 47978,
+  "generation": "Distinct non-empty Model/Retail Branding pairs; preserve cross-brand collisions; no customer data."
+}
